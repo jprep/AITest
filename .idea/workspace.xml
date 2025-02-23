@@ -20,6 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -49,10 +50,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Notification.DisplayName-DoNotAsk-Vcs Notifications": "VCS notifications",
+    "Notification.DoNotAsk-Vcs Notifications": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "<unknown>",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/Golden Archives/Dev Projects/Python/AITest",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -103,8 +106,57 @@
       <workItem from="1740267391067" duration="1001000" />
       <workItem from="1740268498471" duration="747000" />
       <workItem from="1740269283799" duration="286000" />
-      <workItem from="1740272438636" duration="3173000" />
+      <workItem from="1740272438636" duration="3618000" />
     </task>
+    <task id="LOCAL-00001" summary="3rd commit">
+      <option name="closed" value="true" />
+      <created>1740275692837</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740275692837</updated>
+    </task>
+    <task id="LOCAL-00002" summary="3rd commit">
+      <option name="closed" value="true" />
+      <created>1740275714597</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740275714597</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3rd commit">
+      <option name="closed" value="true" />
+      <created>1740275747156</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740275747156</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1740275839925</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740275839925</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1740275895993</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740275895993</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1740275979956</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740275979956</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -128,5 +180,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <MESSAGE value="3rd commit" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
 </project>
