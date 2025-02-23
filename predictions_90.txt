@@ -1,0 +1,46 @@
+Starting prediction for images in the TestImages folder...
+
+Files in folder:
+['001.jpeg', '002.jpeg', '003.jpg', '004.jpg', '005.jpeg', '006.jpeg', '007.jpeg', '008.jpg', '009.jpeg', '010.jpeg']
+
+Processing 001.jpeg...
+Raw prediction output for 001.jpeg: [[0.00658445]]
+001.jpeg: Cat
+
+Processing 002.jpeg...
+Raw prediction output for 002.jpeg: [[0.99999756]]
+002.jpeg: Dog
+
+Processing 003.jpg...
+Raw prediction output for 003.jpg: [[0.99339795]]
+003.jpg: Dog
+
+Processing 004.jpg...
+Raw prediction output for 004.jpg: [[0.9946944]]
+004.jpg: Dog
+
+Processing 005.jpeg...
+Raw prediction output for 005.jpeg: [[0.267994]]
+005.jpeg: Cat
+
+Processing 006.jpeg...
+Raw prediction output for 006.jpeg: [[0.69867015]]
+006.jpeg: Dog
+
+Processing 007.jpeg...
+Raw prediction output for 007.jpeg: [[0.97956866]]
+007.jpeg: Dog
+
+Processing 008.jpg...
+Raw prediction output for 008.jpg: [[0.98478246]]
+008.jpg: Dog
+
+Processing 009.jpeg...
+Raw prediction output for 009.jpeg: [[0.06985097]]
+009.jpeg: Cat
+
+Processing 010.jpeg...
+Raw prediction output for 010.jpeg: [[0.9887521]]
+010.jpeg: Dog
+
+Prediction completed.
