@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="878f91ce-e770-49f1-bf18-f0aa9024749a" name="Changes" comment="Updated Working  Version">
-      <change afterPath="$PROJECT_DIR$/TestImages/ml_model_categorical.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/machine_learning_model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/machine_learning_model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestImages/ml_model_categorical.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ml_model_categorical.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,10 +27,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;jprep&quot;
-  }
+  &quot;lastFilter&quot;: {}
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
@@ -71,6 +67,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Golden Archives\Dev Projects\Python\AITest" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -133,7 +134,8 @@
       <workItem from="1743677497223" duration="298000" />
       <workItem from="1743705701461" duration="3363000" />
       <workItem from="1743753274198" duration="2526000" />
-      <workItem from="1743755886286" duration="3800000" />
+      <workItem from="1743755886286" duration="5612000" />
+      <workItem from="1743772039612" duration="6501000" />
     </task>
     <task id="LOCAL-00001" summary="3rd commit">
       <option name="closed" value="true" />
@@ -223,7 +225,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740333113451</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Updated Working  Version">
+      <option name="closed" value="true" />
+      <created>1743767208995</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1743767208995</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Updated Working  Version">
+      <option name="closed" value="true" />
+      <created>1743767219120</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1743767219120</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
